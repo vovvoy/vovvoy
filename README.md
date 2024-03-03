@@ -16,7 +16,7 @@
 **Databases:** MySQL, PostgreSQL, MongoDB, Minio, Oracle, AWS(S3 Bucket, Redshift, Athena)\
 **Frameworks:** Django\
 **Technologies:** OpenGL/MLX, OpenCV, Assembler, Ray Casting, Numpy, Pandas\
-**Tools:** Git, Linux, Bash/Shell, Docker, K8s, NGINX\
+**Tools:** Git, Linux, Bash/Shell, Docker, NGINX\
 
 <hr>
 <p align="center">
