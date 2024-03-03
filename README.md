@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  QA Engineer at Smart Data
+  QA Automation Engineer | Python Developer
 </p>
 
 ## 🚀 Projects
