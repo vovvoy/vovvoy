@@ -20,5 +20,5 @@
 
 <hr>
 <p align="center">
-  Budapest, Hungary
+  Debrecen, Hungary
 </p>
