@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">
+  Hi 👋, I'm Marsel
+</h1>
 
-<!--
-**vovvoy/vovvoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  QA Engineer at Smart Data
+</p>
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **COVID-2019** [repo](https://github.com/vovvoy/COVID-2019)\
+	Desktop game on **C++** with **OpenCV**, merged **computer vision** technology with gaming.
+
+## 🛠️ Skills
+**Languages:** Python, C, C++\
+**Databases:** MySQL, PostgreSQL, MongoDB, Minio, Oracle, AWS(S3 Bucket, Redshift, Athena)\
+**Frameworks:** Django\
+**Technologies:** OpenGL/MLX, OpenCV, Assembler, Ray Casting, Numpy, Pandas\
+**Tools:** Git, Linux, Bash/Shell, Docker, K8s, NGINX\
+
+<hr>
+<p align="center">
+  Budapest, Hungary
+</p>
